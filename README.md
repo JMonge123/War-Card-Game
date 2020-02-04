@@ -1,2 +1,1 @@
-# War Card Game
- 
+# WarCardGame
